@@ -1,1 +1,1 @@
-# friendly-succotash
+# DIKU Summer of Programming
