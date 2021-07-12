@@ -31,3 +31,8 @@ The following website (https://www.w3resource.com/csharp-exercises/) has an exte
 
 For small exercises and programming challenges there is also the possibility of using an existing platform, such as https://codewars.com/, that offers problems of increasing difficulty for the students to solve and test, and the possibility of comparing one's solution to other peoples solutions, etc. —  and it already has a community setup for answering questions.
 
+## Projects
+
+Once you have done some initial exercises, you might want to work on some larger projects. We provide a selection of projects below:
+
+* [Project 0](projects/project0.pdf)
