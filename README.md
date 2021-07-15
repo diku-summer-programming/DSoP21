@@ -36,3 +36,10 @@ For small exercises and programming challenges there is also the possibility of 
 Once you have done some initial exercises, you might want to work on some larger projects. We provide a selection of projects below:
 
 * [Project 0](projects/project0.pdf)
+
+
+## Extended courses
+
+If you need a break from programming we will recommend that you have a look at the following:
+
+  * The Linux/Unix terminal and its tools
