@@ -27,7 +27,10 @@ Thus, remember the steps that you have learned
 
 ## First exercises
 
-The following website (https://www.w3resource.com/csharp-exercises/) has an extensive selection of small exercises regarding various topics in C#.
+The following websites, has an extensive selection of small exercises regarding various topics in C#.
+
+* https://www.w3resource.com/csharp-exercises/
+* https://edabit.com/challenges/csharp
 
 For small exercises and programming challenges there is also the possibility of using an existing platform, such as https://codewars.com/, that offers problems of increasing difficulty for the students to solve and test, and the possibility of comparing one's solution to other peoples solutions, etc. —  and it already has a community setup for answering questions.
 
