@@ -1,7 +1,5 @@
 # DIKU Summer of Programming 2021
 
-(This site is a first draft and will be updated)
-
 This summer DIKU would like to support students at DIKU that would like maintain and improve their programming skills. Or just have some programming related fun with other students.
 
 Programming is a a craft, like playing an instrument or using tools. You have during the course learned the basics of how it works. But if you lay it away over the summer (do not program or think problem solving in a programming context for two months) you will lose much of these skills that you have gain over the previous semester.
@@ -11,7 +9,7 @@ There exists many programming environments and open source communities, and we c
 But it is also nice to collaborate and chat programming with fellow students. So with DIKU Summer of Programming we will try to make this easier. The material we are designing are targeting Bachelor's students between first and second year; i.e. students with a basic understanding of programming, that want to practice and slowly improve these skills.
 But it is not limited to this. Anyone is welcome
 
-We hope that it will be a fun and rewarding summer. 
+We hope that it will be a fun and rewarding summer.
 Jens, Joachim, Boris and Michael.
 
 ## Problem solving
@@ -39,7 +37,8 @@ For small exercises and programming challenges there is also the possibility of 
 Once you have done some initial exercises, you might want to work on some larger projects. We provide a selection of projects below:
 
 * [Project 0](projects/project0.pdf)
-
+* [Project 1](projects/project1)
+* [Project 2](projects/project2.pdf)
 
 ## Extended courses
 
