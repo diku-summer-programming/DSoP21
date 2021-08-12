@@ -1,0 +1,54 @@
+\documentclass[12pt]{article}
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{../compSys20}
+
+\header{
+  assignment={Project 2: \texttt{donjon}},
+  %authors={Jens Kanstrup Larsen \\ \texttt{<jkl@di.ku.dk>}},
+  date={\today}
+  }
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+When storing and loading data, it is important to consider how to format said data, such that good efficiency is achieved.\\\\
+For this project, you will be making a program for storing and loading the layout simple \textit{dungeons} (levels) in a \textit{dungeon crawler} game.
+
+\section{Dungeon layout}
+All dungeons are composed of rooms connected by corridors. Each room has 0 to 2 \textit{descending} corridors, which lead deeper into the dungeon, and exactly one \textit{ascending} corridor, which leads further back to the entrance. There is always exactly one entrance room, which does not have an ascending corridor, but may only have descending corridors. A dungeon can thus be modelled as a \textit{binary tree}, as seen in figure \ref{fig:example_dungeon}.
+
+\begin{figure}
+  \centering
+  \includegraphics[width=0.6\textwidth]{dungeon_example.png}
+  \caption{Example layout of a dungeon.}
+  \label{fig:example_dungeon}
+\end{figure}
+
+\section{\texttt{donjon} specification}
+At its most basic, \texttt{donjon} should have two functionalities:
+
+\subsection{Generating dungeons}
+
+
+\subsection{Displaying dungeons}
+At its most basic, \texttt{crawler} should be able to load a dungeon layout file (provided as a command line argument) and print some textual representation of the dungeon layout. For the dungeon in figure \ref{fig:example_dungeon}, it might print
+
+\begin{verbatim}
+  The entrance leads to room 1 and room 2.
+  Room 1 leads to room 3 and room 4.
+  Room 2 leads to room 5.
+  Room 3 is a dead end.
+  Room 4 is a dead end.
+  Room 5 is a dead end.
+\end{verbatim}
+
+We are not concerned with saving any data about the rooms other than their relative position, so the room numbers you print may be different, but the dungeon structure should be the same regardless.\\\\
+
+Before you start doing the loading part, however, we suggest that you first develop a method for saving an arbitrary dungeon to a file. 
+
+\end{document}
