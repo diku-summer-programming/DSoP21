@@ -44,4 +44,12 @@ Once you have done some initial exercises, you might want to work on some larger
 
 If you need a break from programming we will recommend that you have a look at the following:
 
-  * The Linux/Unix terminal and its tools
+  * [The Linux/Unix terminal and its tools](terminal.md)
+
+Alternatively (or supplementary), have a look at:
+
+  * [Ryan's Tutorials](https://ryanstutorials.net/bash-scripting-tutorial/) that provide a somewhat easily digestible introduction to shell-scripting as well as a few other topics.
+
+Or sit back and enjoy a couple of lectures from:
+
+  * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) at MIT.
